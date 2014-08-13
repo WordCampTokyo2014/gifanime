@@ -14,9 +14,9 @@ WordCampTokyo2014のgifアニメです。
 
 ___
 
-* [Wapuu_anime.psd](https://github.com/WordCampTokyo2014/wapuu/tree/master/JPG)
-* [Wapuu_bgpink.gif](https://github.com/WordCampTokyo2014/wapuu/tree/master/PNG)
-* [Wapuu_bgwhite.gif](https://github.com/WordCampTokyo2014/wapuu/tree/master/CMYK)
+* [Wapuu_anime.psd](https://github.com/WordCampTokyo2014/gifanime/blob/master/Wapuu_anime.psd)
+* [Wapuu_bgpink.gif](https://github.com/WordCampTokyo2014/gifanime/blob/master/Wapuu_bgpink.gif)
+* [Wapuu_bgwhite.gif](https://github.com/WordCampTokyo2014/gifanime/blob/master/Wapuu_bgwhite.gif)
 
 ___
 
